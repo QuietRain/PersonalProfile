@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,简历模板_jpg,简历模板_就业方向_jpg,简历模板_求职简历_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"name": "简历模板_jpg",
+			"type": "image",
+			"url": "assets/简历模板.jpg"
+		},
+		{
+			"name": "简历模板_就业方向_jpg",
+			"type": "image",
+			"url": "assets/简历模板_就业方向.jpg"
+		},
+		{
+			"name": "简历模板_求职简历_jpg",
+			"type": "image",
+			"url": "assets/简历模板_求职简历.jpg"
+		}
+	]
+}
